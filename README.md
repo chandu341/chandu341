@@ -1,5 +1,5 @@
 #  About Me:
- Hi, I'm Chandu, a DevOps/SRE Engineer with 5+ years of experience in AWS, Azure, Kubernetes, Terraform, and CI/CD.<br> I work on cloud infrastructure, automation, Kubernetes, deployments, and production support.<br> I enjoy automating infrastructure, improving deployments, and troubleshooting production issues.<br> Currently learning and exploring SRE, Kubernetes, cloud architecture, and observability.<br> Open to collaborating on DevOps, Cloud, Kubernetes, and automation projects.
+Hi, I'm Chandu, a DevOps/SRE Engineer with 5+ years of experience in AWS, Azure, Kubernetes, Terraform, and CI/CD.<br> I work on cloud infrastructure, automation, Kubernetes, deployments, and production support.<br> I enjoy automating infrastructure, improving deployments, and troubleshooting production issues.<br> Currently learning and exploring SRE, Kubernetes, cloud architecture, and observability.<br> Open to collaborating on DevOps, Cloud, Kubernetes, and automation projects.
 
 
 ## 🌐 Socials:
